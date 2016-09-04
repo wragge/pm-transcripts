@@ -61,11 +61,12 @@ def combine_pm(pm, type=None):
         filename = '{}-{}'.format(filename, type.lower())
     with open(os.path.join('pms', filename + '.txt'), 'wb') as pm_file:
         for transcript in transcripts:
-            with open(os.path.join('transcripts', 'transcript-{}.xml'.format(transcript['id'])), 'rb') as xml_file:
-                soup = BeautifulSoup(xml_file, 'xml')
-                content = soup.find('content').string.replace('<![CDATA[', '').replace(']]>', '').encode('utf-8')
-                clean_content = re.sub('<[^<]+?>', '', content)
-                pm_file.write(clean_content + '\n\n')
+            if transcript['id']:
+                with open(os.path.join('transcripts', 'transcript-{}.xml'.format(transcript['id'])), 'rb') as xml_file:
+                    soup = BeautifulSoup(xml_file, 'xml')
+                    content = soup.find('content').string.replace('<![CDATA[', '').replace(']]>', '').encode('utf-8')
+                    clean_content = re.sub('<[^<]+?>', '', content)
+                    pm_file.write(clean_content + '\n\n')
 
 
 def combine_all_pms(type=None):
