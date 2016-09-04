@@ -32,9 +32,9 @@ will create the file `gillard-julia-speech.txt` combining the text of all speech
 
 Here's the number of transcripts for each Prime Minister:
 
-|====|====|
+
 | Prime Minister | Number of transcripts |
-|====|====|
+|------|------:|
 | Howard, John | 5854 |
 | Hawke, Robert | 2310 |
 | Fraser, Malcolm | 2072 |
