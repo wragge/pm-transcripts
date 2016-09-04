@@ -47,7 +47,7 @@ Here's the number of transcripts for each Prime Minister:
 | Gorton, John | 619 |
 | Holt, Harold | 497 |
 | McMahon, William | 341 |
-| Unknown: 68 |
+| Unknown | 68 |
 | McEwen, John | 11 |
 | Chifley, Ben | 10 |
 | Curtin, John | 3 |
