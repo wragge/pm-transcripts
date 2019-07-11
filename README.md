@@ -2,55 +2,46 @@
 
 The Department of Prime Minister and Cabinet provides transcripts of more than [20,000 speeches, media releases, and interviews](https://pmtranscripts.dpmc.gov.au/about-collection) by Australian Prime Ministers. These transcripts can be [searched online](https://pmtranscripts.dpmc.gov.au/), and the underlying XML files [can be downloaded](https://pmtranscripts.dpmc.gov.au/developers) using a simple API.
 
-This repository contains transcripts harvested from the PM Transcripts web site on 3 September 2016.
+This repository contains transcripts harvested from the PM Transcripts web site on 11 July 2019.
 
 The XML files are all saved in the [`transcripts`](transcripts/) folder.
 
 I've also created a simple [index](index.csv) (in CSV format) that contains the metadata from each of the XML files. The fields are:
 
-* transcript id
-* release date
-* title
-* prime minister's name
-* type of transcript (speech, interview, media release etc)
-* subjects (not used very often)
-* url for PDF version
-
-Also included are the scripts I used to [harvest](harvest.py) and [index](index.py) the files. There's some useful bits and pieces in `utilities.py` to extract information about the number of transcripts for each Prime Minister and for each transcript type.
+* `id` – transcript id
+* `date` – release date
+* `title`
+* `pm` – prime minister's name
+* `release_type` – type of transcript (speech, interview, media release etc)
+* `subjects` – subjects (not used very often)
+* `pdf` – url for PDF version (if there is one)
 
 I've combined copies of all the transcripts for each PM and saved them to the [`pms`](pms/) folder -- one file per PM. These files contain only the texts of each transcript, ordered chronologically.
 
-Using `combine_pm()` in `utilities.py` you can generate a file for each Prime Minister and transcript type. So:
+I've also created a zip file for each PM and saved them to the [`pms`](pms/) folder.
 
-``` shell
->>> import utilities
->>> utilities.combine_pm('Gillard, Julia', 'Speech')
-
-```
-
-will create the file `gillard-julia-speech.txt` combining the text of all speeches by Julia Gillard.
+The code for harvesting, indexing, analysing, and aggregating the transcripts is [in the GLAM Workbench](https://github.com/GLAM-Workbench/pm-transcripts).
 
 Here's the number of transcripts for each Prime Minister:
 
-
-| Prime Minister | Number of transcripts |
-|------|------:|
-| Howard, John | 5854 |
-| Hawke, Robert | 2310 |
-| Fraser, Malcolm | 2072 |
-| Gillard, Julia | 2037 |
-| Rudd, Kevin | 1726 |
-| Keating, Paul | 1572 |
-| Abbott, Tony | 1360 |
-| Whitlam, Gough | 1227 |
-| Menzies, Robert | 1197 |
-| Gorton, John | 619 |
-| Holt, Harold | 497 |
-| McMahon, William | 341 |
-| Unknown | 68 |
-| McEwen, John | 11 |
-| Chifley, Ben | 10 |
-| Curtin, John | 3 |
+```
+Howard, John         5865
+Hawke, Robert        2321
+Fraser, Malcolm      2081
+Gillard, Julia       2072
+Turnbull, Malcolm    1751
+Rudd, Kevin          1735
+Keating, Paul        1582
+Abbott, Tony         1371
+Whitlam, Gough       1238
+Menzies, Robert      1212
+Gorton, John          625
+Holt, Harold          507
+McMahon, William      349
+McEwen, John           16
+Chifley, Ben           11
+Curtin, John            4
+```
 
 Thanks to the Department of Prime Minister and Cabinet for making these documents available [under a CC-BY licence](https://pmtranscripts.dpmc.gov.au/copyright).
 

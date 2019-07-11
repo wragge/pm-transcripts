@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<transcripts>
+  <transcript>
+    <transcript-id>41239</transcript-id>
+    <title>Facebook Live interview with Professor Ian Hickie and Professor Jane Burns</title>
+    <prime-minister>Turnbull, Malcolm</prime-minister>
+    <period-of-service>20150915 - 20180824</period-of-service>
+    <release-date>12/10/2017</release-date>
+    <release-type>Transcript</release-type>
+    <document></document>
+    <subjects>Mental health;</subjects>
+    <content><![CDATA[<p>Watch the interview on Facebook live.</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>Good morning. I’m Professor Ian Hickie from the Brain and Mind Centre at the University of Sydney. Its my great pleasure during this Mental Health Week to have as a guest the Prime Minister of Australia, Malcolm Turnbull. One of our greatest supporters really, in terms of a really important concept, one you’ve taken and mentioned many times; how do we grow the mental wealth of Australia?</p>
+<p>Can you just say again how important mental health is to our wealth as a nation?</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>Well it is and you first talked about this, the ‘mental wealth of nations’. I thought it was a brilliant concept because it explained how we all have vested interest in everybody else’s mental health. We clearly have a vested interest in our own mental health and in our family. But we have a vested interest in every Australian’s mental health, because we’re all dependent on each other. So it’s why awareness is so important. It’s why initiatives like ‘RUOK?’ is so important. It’s why the great use of technology that we’re going to talk about now, that you and Dr Jane Burns are undertaking through synergy, using the smartphone that everyone lives with as the means of enabling people who have mental health issues, or fear they may or are feeling unwell or unsettled, can get help immediately. Just talk about that, talk about how you’re using technology to ensure that more Australians get the help they need, sooner.</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>This is actually really the 21st century issue. I had the great pleasure of being the inaugural CEO of Beyondblue working with Professor Jane Burns who is in the room with us, and with Jeff Kennett and now great to have previous Prime Minister Gillard take over that role. Australia leads the world. We are gold-medal winners in mental health awareness, so we have had more transformation in Australia. The result of that – and we’ll see more data this week – is more Australians are now looking for mental health care.</p>
+<p>But the gap between those who have mental health problems – about half of us in our lifetime will have significant mental health problems, about half of those really will need care – and the services we have, is enormous, as it is worldwide.</p>
+<p>Many people wouldn’t choose to use the services of their ordinary GP or young people, or veterans as we were just discussing, or as they age. They want to be in control of that. They want to access the right care in specialised ways. In ways that respond to their needs when they choose. The way we all do now, with banking and airlines and industry, in music, in videos. We’re used to that. It hasn’t happened in health, so we believe that technology now provides the capacity for you to put information in, tell us what your needs are, to start accessing that care online from actually anywhere in the world. The apps, the technologies, from anywhere thin the world but then to link with the services in your community.</p>
+<p>If you’re in Broken Hill in Australia, or you’re in Far North Queensland or you’re in rural Victoria, how can that come together in a meaningful, engaged - to borrow from Jane - ecosystem of technologies and local services to have that. We think that’s the possibility.</p>
+<p>So we’re really glad with your background in technology, to understand the personalisation. To understand the capacity in rural and regional Australia, to bring real expertise directly to you when you choose, under your control, with your needs.</p>
+<p>So the project synergy process, supported by your Government and your 2016 election commitment, gives us now, that capacity.</p>
+<p>Australia actually though many of our colleagues – reachout.com, the Black Dog Institute, the work of BeyondBlue and many others – leads the world actually, in the application of technologies in mental health. But they’re all at this stage cottage industries. They’re all small, academic or little organisations. Synergy is the back end. Synergy is the superhighway to join up those sets of services. Not to compete with them, but sit behind them. So you can move across all of those services if you’re a veteran sitting in south-western Western Australia. If you’re a young person sitting in Broken Hill, if you’re an indigenous person either in Redfern where I live, or in Far North Queensland, you can get a service that’s relevant to you and you can interact with the online, but also clinical services that are most relevant.</p>
+<p>So your Government’s commitment not just through health, but through industry and technology and the direct involvement, we’ve got a chance here to develop best practice in Australia and then to take that internationally.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>Ian you’re absolutely right and Jane’s work has been – Jane is just there, come and say hello Jane. Can we do that?</p>
+<p>[Laughter]</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>Come and sit here Jane.</p>
+<p><strong>PROFESSOR JANE BURNS:</strong></p>
+<p>Hello. Hello everybody.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>Here’s Jane Burns. Jane, come and sit here. The work that you’ve done in bringing truly primary health services to the most intimate mode of communication in the 21st century, which is that digital device –</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>That’s right.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>It is a way in which people can better understand themselves. I was very impressed with the tools you have there that we went through with Synergy – and of course Synergy is as you say, like the back end. It’s being written I think with the Ruby programming language, with a tool called ‘Ruby On Rails’, which is good, you’ve got lots of rails out there. Lots of people can connect and what that will enable people to do is get a better understanding of their own state of mind, their own issues. Get a better understanding earlier and then be able to seek the help they need both from big national organisations like Beyondblue and Black Dog and others but also as you were saying, to be connected with local services. That might be the GP around the corner or it might be a local support group. That’s the key, isn’t it.</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>Yeah.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>So it’s both national, international and also very, very local.</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>The thing about local - two things I think people don’t understand about technology. One is the one you’ve just said; technology is very intimate. People actually don’t necessarily find it easier to talk to their GP or go to a service. Many people - and Jane has worked with the CRC - reveal more, they tell the computer more -</p>
+<p><strong>PROFESSOR JANE BURNS:</strong></p>
+<p>Ten times more!</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>They tell their computer? Now that’s-</p>
+<p><strong>PROFESSOR JANE BURNS:</strong></p>
+<p>Ten times more.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>So okay, if we’ve got someone -</p>
+<p><strong>PROFESSOR JANE BURNS:</strong></p>
+<p>You’re on an iPad filling in a questionnaire. You’re doing it in the waiting room and then when you walk in to speak to your GP, nine to ten times greater disclosure.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>And that’s because of the anonymity is it?</p>
+<p><strong>PROFESSOR JANE BURNS:</strong></p>
+<p>The anonymity and it’s simple. It’s easy you can swipe through, it’s easy to use.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>Yep.</p>
+<p><strong>PROFESSOR JANE BURNS:</strong></p>
+<p>You’re doing it in your own time, you’re not stressed. How do you answer questions about really intimate things like sexual health or depression or anxiety or suicidal behaviour? So immediately the GP or the psychologist or the psychiatrist can respond to your needs.</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>So one issue is disclosure. The second is actually local, but backed by specialisation.</p>
+<p>So right around the world, we don’t have enough psychiatrists, clinical psychologists, specialists. Action through technology, specific needs can get met. One of the stories are from western Victoria of a young women with an eating disorder connected through technology to specialised treatment for eating disorders, in western Victoria. She had received no services for that nature in her own local area. We have specialist child psychiatrists providing services to Broken Hill through the technology.</p>
+<p>So the assessment bit, which is really important to make sure that you get the right care at the right time up front. If you’ve got a more severe problem, like if you’ve got cancer, you need specialised cancer care now, not to go through your GP and three other steps. You need to get that. If you’ve got a psychotic illness, if you’ve got bipolar disorder, you need to get that right assessment at the front end.</p>
+<p>So very much - and I think Minister Ley, and now Minister Hunt have taken this forward.</p>
+<p>What it also says is, get the right assessment by involving the right professionals on top of the self-reported, the more disclosed data and get into the right level of care. So another big issue for us, is the economic one; the right amount of care to the right people at the right time. So that if you’ve got high needs, you get really intensive care now. So I think in Australia-</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>So it’s tailored, in other words.</p>
+<p><strong>PROFESSOR JANE BURNS:</strong></p>
+<p>It’s customised to the individual.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>Yeah, go on Jane.</p>
+<p><strong>PROFESSOR JANE BURNS:</strong></p>
+<p>Well as a veteran, so you’ve met some of our veterans from our work experience group?</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>Yeah, sure.</p>
+<p><strong>PROFESSOR JANE BURNS:</strong></p>
+<p>Veterans Affairs provides fabulous resources. There’s the veterans service counselling services, PTSD coach, there’s High Res there’s a whole host of apps and e-tools they can use.</p>
+<p>What we want is for veterans and their families to have the assessment - so you understand what is going on for them, and everyone is different so you have different needs - But then the toolbox, the thing that they can use that supports their mental health, their well-being, their mental fitness, which is something that veterans often talk about, is customised to them.</p>
+<p>So if it is PTSD, we provide a PTSD coach. If it is a drug or an alcohol problem, they’re provided with all of the resources around drug and alcohol.</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>If it’s an anger in a relationship problem, there’s a relationship issue to attend to - and more importantly, people often have more than one need. So you might classically, the veteran might have a PTSD problem, might have a drug and alcohol problem, they might have an employment problem. So the other thing the technology does is, is it says: “What are your needs? What are the groups of services that need to work together”?</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>It’s like triaging?</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>Yeah, but it’s sophisticated and personal.</p>
+<p><strong>PROFESSOR JANE BURNS:</strong></p>
+<p>And smart.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>But Ian just a minute. The internet, the web is full of lots of services, not all of them are great. Not all of them are evidence based.</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>No.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>So just talk about the quality control that is a big part of this?</p>
+<p><strong>PROFESSOR JANE BURNS:</strong></p>
+<p>When we first started the ‘Young and Well’ CRC there was, we thought it was exciting, there was one app. It was around tracking your mood. There was then a proliferation of thousands of apps. There are literally hundreds of thousands of apps and e-tools.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>Yeah.</p>
+<p><strong>PROFESSOR JANE BURNS:</strong></p>
+<p>So we rate them on an evidence rating scale.</p>
+<p>Two things; the evidence, does it work? Does it actually improve the outcomes? But also, do people like it and are they going to use it? Because there is no point giving someone something that they use for a minute and then no one reuses.</p>
+<p>So we’ve done this in banking and retail. I mean we were talking about Spotify and Netflix where there’s a customisation to you and your individual needs and what your preferences are. It’s all about choice and it’s all about making it easy for the person to use the resources tools that suit them the best. Whether they want to do that online through the Synergy system or whether they do that in partnership with their psychologist, their GP, their psychiatrist, that whole community support, their family members - families are huge in supporting young people, but also veterans etcetera - so it’s customised to the needs of the person and whoever can provide the support for them.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>So where are people that are watching us today, who would like to use the Synergy app, the Synergy product, system, Synergy system, how do they get access to it?</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>So what’s going to happen is - as you committed to which is great - we’ve got to grow the evidence base here.</p>
+<p>There’s a series of trials. So in each community and in each group, we trial, we modify and then we deploy.</p>
+<p>So what’s happening for example - and the best example is through the Headspace systems - here in central eastern Sydney with the Headspace cluster, we trial, we’ve designed we’re now deploying that through those systems.</p>
+<p>So those that come into those systems, will start to be using that Synergy system, behind the service reform. So, making Headspace work in local communities.</p>
+<p>We’ll see in veterans communities here in Sydney and then in Townsville, they’re developing services, we’ll be working with eating disorder services in Geelong and the coast down there and Butterfly Foundation.  So what you’ll see, is the Synergy system coming into work with existing players. Through your Government’s commitment to conducting over ten of these trials, our plan is to work with the other key organisations - with Lifeline, with other organisations who work in, allow other organisations like Sane Australia and ReachOut and others, to participate, to come together.</p>
+<p>So I think what’s been really great about your Government’s commitment it isn’t just funding 20 different organisations to do 20 different things. It’s about how do we coordinate the system, so you’re at the centre and in addition to the quality of the service that’s provided, the clinical governance - </p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>When you say “you’re” at the centre, you mean “the person” -</p>
+<p><strong>PROFESSOR JANE BURNS:</strong></p>
+<p>The user.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>The user.</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>Yep. So what each of those organisations has to do, which is a bit unusual -</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>It’s a customer or patient or client focused system.</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>Yes.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>And controlled system?</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>Controlled, so you control the movement and data. So what the services have to agree, is that you’re actually, you’re the most important.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>That’s right.</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>Then that they’ll share the data. Now, your data might come off your Fitbit or your very elaborate Apple Watch or it may come off another device. It may come out in other ways-</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>Device envy!</p>
+<p>[Laughter]</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>I’ll just say, you may not need the world’s best one. A simple Fitbit, some of the other simpler devices, as these devices become simpler, modifying your sleep-wake cycle, doing physical activity, reducing your drug and alcohol use, moderating your eating behavior, you’ll be able to feed that data in. Then you work out for yourself what works best for your mood? What works best for your anxiety?</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>So how can people get access to it now, and if not now, how soon can they get it?</p>
+<p><strong>PROFESSOR JANE BURNS:</strong></p>
+<p>So, not now. But you met Jackie Crowe, and you know Jackie who’s been driving Lived Experience and working with Minister Hunt.</p>
+<p>Head to Health is a collator of resources and information. They can go to that right now.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>Okay, Head to Health?</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>Head to Health, yes.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>Good.</p>
+<p><strong>PROFESSOR JANE BURNS:</strong></p>
+<p>Again launched on Saturday by Minister Hunt. When Synergy goes through its process of trials, then it will be available.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>And how long will that be?</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>So with your Government’s commitment over the next three years, the first trials and a series of preliminary trials-</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>$30 million.</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>$30 million over three years, which is fabulous, yeah. Because that’s the-</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>Well, we’ve spent a lot on that, we’ve spent $4 billion a year plus on mental health. So it is a massive priority and we’re putting more resources into it all the time.</p>
+<p>But as you’ve often said, as you’ve often said, it’s not the dollars. The dollars, I mean you can’t do anything without the dollars, we know that. But it’s not the amount of the dollars, it’s how well you use them.</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>Exactly.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>That’s where you guys are doing such a great job with technologies.</p>
+<p><strong>PROFESSOR JANE BURNS:</strong></p>
+<p>And the coordination.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>Yep. So how long? When the trials be completed and when will this be available everywhere?</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>As each trial is completed those services … so it doesn’t have to wait until all the trials are done.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>Okay.</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>The Headspace clusters is a good example. We’ve done the preliminary trials. It’s now going to be deployed in those various clusters. We’re extending shortly to the north coast of New South Wales. As I said the suicide prevention in young people, with the suicide prevention trials that your Government’s committed to there and in Townsville, etc. So it will progressively roll out with each of the trials, but in a proper R&amp;D way; evidenced based, then deployed, built with those local communities and then deployed through those organisations.</p>
+<p>We hope to go through the veterans nationally, through the injured soldiers services nationally. So you’ll see in Australia over the next three years, the progressive rollout with the cooperative organisations. Governments have a big role here, to say to the organisations they fund: “You must cooperate”.</p>
+<p>I’d say to mental health and many other areas, we’ve had far too much competition between organisations, each going to Governments saying: “Give us money, because we do this bit”.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>Yeah.</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>As distinct from: “We’ve got to work together around the needs”. Much like the National Disability Insurance Scheme – it’s got to be about the people and the families in the middle of this and Government’s funding systems that encourage us to cooperate. </p>
+<p>We think technology is at the heart of it, because your other favourite thing - which I love, I was just showing data on outcomes. We could argue for more money and to be clear, I’m going to argue for money, but good money is money that delivers better outcomes.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>That’s right.</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>You know and that we can track outcomes through here. Are we doing the right thing?</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>And outcomes for the customer, patient, client. What do you call them?</p>
+<p><strong>PROFESSOR JANE BURNS:</strong></p>
+<p>Person.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>Person! Right, we’re all persons.</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>Users. The users of services say: “I want services that are relevant to me, so you meet my needs and I want evidence that the things that you recommend, actually change my life”.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>And they can see that and track it?</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>Yes.</p>
+<p><strong>PROFESSOR JANE BURNS:</strong></p>
+<p>And I don’t want to tell my story 15 times, to 15 different service providers.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>Yeah, okay.</p>
+<p><strong>PROFESSOR JANE BURNS:</strong></p>
+<p>So one story; my data. I can share it if choose to and I can track what’s happening for me over time. I can improve what needs to be improved and if I start to become unwell, we want to get people into care earlier. Because we know there are better outcomes when people get into care.</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>So what we really see in Australia - and I must say it’s through the great work of Beyondblue and others - is a world leader in awareness. The big challenge worldwide, it’s been raised by all of the big G8 economies is, awareness has gone up but service reform hasn’t happened.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>Yeah.</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>We’re dealing with 20th century and in some case 19th century service models, in the 21st century.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>So you’re dealing with 21st century levels of awareness, but with 20th century levels of service. You need 21st century technology to deliver a 21st century level of service. That’s great.</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>Yeah, now you saw this in disability, you’ve seen it in aged care. We have got to change the service models.</p>
+<p>So the awareness work is fabulous, but really, really we won’t change people’s lives now unless we change the service models.</p>
+<p>It’s great that Julia Gillard is the head of Beyondblue now. She made some very important commitments back in 2012. She set up the National Commission, which I’m a member of with Allan Fels and now Lucy Brogden. That recommended - and you took up the recommendations in 2015 -change the system, make it more regional, make it more person-relevant.</p>
+<p>Now technology is the big enabler.</p>
+<p>A lot of health professionals, my end, they’re struggling with it. They think people don’t disclose to technology, but they do.</p>
+<p>They think people have got to come, necessarily, into an office to get help first.</p>
+<p>We say, if the offices, more than one, you know you need in advance, organise themselves, you’ll get the combination of services that you need. They all should be held accountable for the outcome and they’re the ones we want to fund.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>Well, they will be and you’ve got the technology, the passion, the commitment, 21st century services to deal with this challenge of mental health. As you say - building and ensuring and securing the mental wealth of our nation of Australia.</p>
+<p>Thank you so much.</p>
+<p><strong>PROFESSOR JANE BURNS:</strong></p>
+<p>Thank you.</p>
+<p><strong>PROFESSOR IAN HICKIE:</strong></p>
+<p>Thank you so much, Prime Minister for your time.</p>
+<p><strong>PRIME MINISTER:</strong></p>
+<p>Thank you, thanks a lot.</p>
+<p><strong>[ENDS]</strong></p>
+]]></content>
+  </transcript>
+</transcripts>
